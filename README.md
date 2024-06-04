@@ -1,4 +1,4 @@
-# CIFAR-10_Object_Detection_nrf7002DK
+# TinyML: CIFAR-10_Object_Detection_nrf7002DK
 Deployed CIFAR-10-based Object Detection/ Classification model on Nordic nrf7002DK_nrf5340
 
 # CIFAR-10 Object Detection on nRF7002DK
