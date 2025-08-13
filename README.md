@@ -1,10 +1,10 @@
-# TinyML: CIFAR-10_Object_Detection_nrf7002DK
+# TinyML: CIFAR-10_Image_Detection_nrf7002DK
 Deployed CIFAR-10-based Object Detection/ Classification model on Nordic nrf7002DK_nrf5340
 
-# CIFAR-10 Object Detection on nRF7002DK
+# CIFAR-10 Image Detection on nRF7002DK
 
 ## Introduction
-This project demonstrates the implementation and deployment of a CIFAR-10-based object detection (classification) model on the nRF7002DK development kit. The purpose of this project is to showcase the ability to run a convolutional neural network for image classification directly on an embedded device, using TensorFlow Lite Micro. The model classifies images into one of the CIFAR-10 dataset categories, specifically demonstrating a sample image of a ship.
+This project demonstrates the implementation and deployment of a CIFAR-10-based image classification model on the nRF7002DK development kit. The purpose of this project is to showcase the ability to run a convolutional neural network for image classification directly on an embedded device, using TensorFlow Lite Micro. The model classifies images into one of the CIFAR-10 dataset categories, specifically demonstrating a sample image of a ship.
 
 ## Project Setup
 
